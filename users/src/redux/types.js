@@ -1,0 +1,11 @@
+export const ADD_USERS = "USERS/ADD_USERS";
+export const ADD_USER = "USERS/ADD_USER";
+export const DELETE_USER = "USERS/DELETE_USER";
+export const DELETE_ALL_USERS = "USERS/DELETE_ALL_USERS";
+export const UPDATE_USER = "USERS/UPDATE_USER";
+export const FETCH_USERS = "USERS/FETCH_USERS";
+export const SHOW_LOADER = "APP/SHOW_LOADER ";
+export const HIDE_LOADER = "APP/HIDE_LOADER";
+export const SHOW_ALERT = "APP/SHOW_ALERT";
+export const HIDE_ALERT = "APP/HIDE_ALERT";
+export const INITIALIZE_ALERT = "APP/INITIALIZE_ALERT";
